@@ -1,4 +1,4 @@
 # hellogit
 My Hello Git!
 
-Я изменяю этот файл.
+/python - simple examples
