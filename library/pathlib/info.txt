@@ -1,0 +1,2 @@
+Почему вам следует использовать pathlib
+https://habr.com/ru/post/453862/
