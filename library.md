@@ -3,7 +3,7 @@
 - [os](#os)
 - [pathlib](#pathlib)
 - [random](#random)
-- [sys](#sys)
+- [sys](#sys)  или прямо: [sys](./library/sys)
 - [uuid](#uuid)
 
 ---
