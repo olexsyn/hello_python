@@ -20,7 +20,7 @@ try:
  sys.exit()  # см. также: os._exit, Tk().quit()
 ... except SystemExit:
 ...
- print(‘ignoring exit’)
+ print('ignoring exit')
 ...
 ```
 
