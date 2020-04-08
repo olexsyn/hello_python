@@ -42,13 +42,14 @@ Sometimes it’s useful to have different levels of headings to structure your d
 
 ## Emphasis
 
-*This text will be italic*
-_This will also be italic_
+*This text will be italic*  `*text*`  
+_This will also be italic_  `_text_`
 
-**This text will be bold**
-__This will also be bold__
+**This text will be bold**  `**text**`  
+__This will also be bold__  `__text__`
 
-_You **can** combine them_
+_You **can** combine them_  `_You **can** combine them_`  
+*You __can__ combine them*  `*You __can__ combine them*`
 
 ###### This is an `<h6>` tag
 
