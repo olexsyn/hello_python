@@ -19,7 +19,7 @@ subprocess.call(['notify-send', info])
 
 Подробнее:
 
-* <https://docs.python.org/3/library/subprocess.html> :en:
+* <https://docs.python.org/3/library/subprocess.html>
 * <https://natenka.gitbook.io/pyneng/part_ii/12_useful_modules/subprocess>
 * <https://pythonworld.ru/moduli/modul-subprocess.html>
 * <https://ru.wikibooks.org/wiki/Учебник_Python/Процессы_и_потоки>
