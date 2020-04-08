@@ -1,23 +1,25 @@
 # sys
 
-- argv
-- exit
+- [argv](#argv)
+- [exit](#exit)
 
 
-## argv
+## <a name="argv"></a> argv
 
 
 
 
-## exit - завершение программ
+## <a name="exit"></a> exit
+
+### завершение программ
 
 Кратко:
 
 ```python
-<file python>sys.exit(code)  # code - не обязателен</file>
+sys.exit(code)  # code - не обязателен
 ```
 
 `code` = **0** - нормальное завершение; другие значения, если возникли проблемы
 
-[подробнее](./sys/exit.md)
+[подробнее про завершение программ в Python](./sys/exit.md)
 
