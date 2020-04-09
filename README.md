@@ -64,7 +64,7 @@ __This will also be bold__  `__text__`
 _You **can** combine them_  `_You **can** combine them_`  
 *You __can__ combine them*  `*You __can__ combine them*`
 
-[top]: /#top "вверх"
+[top]: #top "вверх"
 
 ###### This is an `<h6>` tag
 
